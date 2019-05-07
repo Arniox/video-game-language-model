@@ -1,0 +1,23 @@
+{
+	"name": "ItemTypeAndRarityIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "itemType",
+					"value": "$itemType",
+					"dataType": "@itemType"
+				},
+				{
+					"isList": false,
+					"name": "itemRarity",
+					"value": "$itemRarity",
+					"dataType": "@sys.color"
+				}
+			]
+		}
+	]
+}

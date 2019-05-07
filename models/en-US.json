@@ -1,0 +1,161 @@
+{
+	"invocation": "my test app",
+	"intents": [
+		{
+			"name": "MapVersionIntent",
+			"phrases": [
+				"{version}",
+				"show me {version}",
+				"show me season {version} map",
+				"map season {version}",
+				"map from fortnite season {version}"
+			],
+			"inputs": [
+				{
+					"name": "version",
+					"type": {
+						"alexa": "AMAZON.NUMBER",
+						"dialogflow": "@sys.number"
+					}
+				}
+			]
+		},
+		{
+			"name": "ItemTypeIntent",
+			"phrases": [
+				"{itemType}",
+				"show me {itemType}",
+				"{itemType} items",
+				"fortnite {itemType} items",
+				"give me {itemType}",
+				"what are all {itemType}",
+				"what is {itemType}",
+				"give {itemType}"
+			],
+			"inputs": [
+				{
+					"name": "itemType",
+					"type": "itemType"
+				}
+			]
+		},
+		{
+			"name": "ItemTypeAndRarityIntent",
+			"phrases": [
+				"{itemRarity} {itemType}",
+				"show me {itemRarity} {itemType}",
+				"{itemRarity} {itemType} items",
+				"fortnite {itemRarity} {itemType} items",
+				"give me {itemRarity} {itemType}",
+				"what are all {itemRarity} {itemType}",
+				"what is {itemRarity} {itemType}",
+				"give {itemRarity} {itemType}"
+			],
+			"inputs": [
+				{
+					"name": "itemType",
+					"type": "itemType"
+				},
+				{
+					"name": "itemRarity",
+					"type": {
+						"alexa": "AMAZON.Color",
+						"dialogflow": "@sys.color"
+					}
+				}
+			]
+		}
+	],
+	"inputTypes": [
+		{
+			"name": "itemType",
+			"dialogflow": {
+				"automatedExpansion": true
+			},
+			"values": [
+				{
+					"value": "explosives",
+					"synonyms": [
+						"explosive",
+						"bomb",
+						"bombs",
+						"dynamite"
+					]
+				},
+				{
+					"value": "utility"
+				},
+				{
+					"value": "healing Items",
+					"synonyms": [
+						"healing",
+						"health",
+						"energy",
+						"life"
+					]
+				},
+				{
+					"value": "foraged healing items",
+					"synonyms": [
+						"foraged healing",
+						"picked up healing",
+						"picked up",
+						"plants"
+					]
+				},
+				{
+					"value": "traps"
+				},
+				{
+					"value": "camouflage",
+					"synonyms": [
+						"hiding"
+					]
+				},
+				{
+					"value": "mobility"
+				}
+			]
+		}
+	],
+	"alexa": {
+		"interactionModel": {
+			"languageModel": {
+				"intents": [
+					{
+						"name": "AMAZON.CancelIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.HelpIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.StopIntent",
+						"samples": []
+					}
+				]
+			}
+		}
+	},
+	"dialogflow": {
+		"intents": [
+			{
+				"name": "Default Fallback Intent",
+				"auto": true,
+				"webhookUsed": true,
+				"fallbackIntent": true
+			},
+			{
+				"name": "Default Welcome Intent",
+				"auto": true,
+				"webhookUsed": true,
+				"events": [
+					{
+						"name": "WELCOME"
+					}
+				]
+			}
+		]
+	}
+}

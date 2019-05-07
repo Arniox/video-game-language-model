@@ -1,0 +1,17 @@
+{
+	"name": "ItemTypeIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "itemType",
+					"value": "$itemType",
+					"dataType": "@itemType"
+				}
+			]
+		}
+	]
+}

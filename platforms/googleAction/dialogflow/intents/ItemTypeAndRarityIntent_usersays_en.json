@@ -1,0 +1,210 @@
+[
+	{
+		"data": [
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "show me ",
+				"userDefined": false
+			},
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "fortnite ",
+				"userDefined": false
+			},
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give me ",
+				"userDefined": false
+			},
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "what are all ",
+				"userDefined": false
+			},
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "what is ",
+				"userDefined": false
+			},
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give ",
+				"userDefined": false
+			},
+			{
+				"text": "itemRarity",
+				"userDefined": true,
+				"alias": "itemRarity",
+				"meta": "@sys.color"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemType",
+				"userDefined": true,
+				"alias": "itemType",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"value": "explosives",
+		"synonyms": [
+			"explosives",
+			"explosive",
+			"bomb",
+			"bombs",
+			"dynamite"
+		]
+	},
+	{
+		"value": "utility",
+		"synonyms": [
+			"utility"
+		]
+	},
+	{
+		"value": "healing Items",
+		"synonyms": [
+			"healing Items",
+			"healing",
+			"health",
+			"energy",
+			"life"
+		]
+	},
+	{
+		"value": "foraged healing items",
+		"synonyms": [
+			"foraged healing items",
+			"foraged healing",
+			"picked up healing",
+			"picked up",
+			"plants"
+		]
+	},
+	{
+		"value": "traps",
+		"synonyms": [
+			"traps"
+		]
+	},
+	{
+		"value": "camouflage",
+		"synonyms": [
+			"camouflage",
+			"hiding"
+		]
+	},
+	{
+		"value": "mobility",
+		"synonyms": [
+			"mobility"
+		]
+	}
+]

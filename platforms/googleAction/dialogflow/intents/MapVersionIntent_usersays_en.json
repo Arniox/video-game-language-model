@@ -1,0 +1,82 @@
+[
+	{
+		"data": [
+			{
+				"text": "version",
+				"userDefined": true,
+				"alias": "version",
+				"meta": "@sys.number"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "show me ",
+				"userDefined": false
+			},
+			{
+				"text": "version",
+				"userDefined": true,
+				"alias": "version",
+				"meta": "@sys.number"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "show me season ",
+				"userDefined": false
+			},
+			{
+				"text": "version",
+				"userDefined": true,
+				"alias": "version",
+				"meta": "@sys.number"
+			},
+			{
+				"text": " map",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "map season ",
+				"userDefined": false
+			},
+			{
+				"text": "version",
+				"userDefined": true,
+				"alias": "version",
+				"meta": "@sys.number"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "map from fortnite season ",
+				"userDefined": false
+			},
+			{
+				"text": "version",
+				"userDefined": true,
+				"alias": "version",
+				"meta": "@sys.number"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

@@ -1,0 +1,17 @@
+{
+	"name": "MapVersionIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "version",
+					"value": "$version",
+					"dataType": "@sys.number"
+				}
+			]
+		}
+	]
+}

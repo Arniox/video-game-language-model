@@ -1,0 +1,149 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			"invocationName": "my test app",
+			"types": [
+				{
+					"name": "itemType",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "explosives",
+								"synonyms": [
+									"explosive",
+									"bomb",
+									"bombs",
+									"dynamite"
+								]
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "utility"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "healing Items",
+								"synonyms": [
+									"healing",
+									"health",
+									"energy",
+									"life"
+								]
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "foraged healing items",
+								"synonyms": [
+									"foraged healing",
+									"picked up healing",
+									"picked up",
+									"plants"
+								]
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "traps"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "camouflage",
+								"synonyms": [
+									"hiding"
+								]
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "mobility"
+							}
+						}
+					]
+				}
+			],
+			"intents": [
+				{
+					"name": "MapVersionIntent",
+					"samples": [
+						"{version}",
+						"show me {version}",
+						"show me season {version} map",
+						"map season {version}",
+						"map from fortnite season {version}"
+					],
+					"slots": [
+						{
+							"name": "version",
+							"type": "AMAZON.NUMBER"
+						}
+					]
+				},
+				{
+					"name": "ItemTypeIntent",
+					"samples": [
+						"{itemType}",
+						"show me {itemType}",
+						"{itemType} items",
+						"fortnite {itemType} items",
+						"give me {itemType}",
+						"what are all {itemType}",
+						"what is {itemType}",
+						"give {itemType}"
+					],
+					"slots": [
+						{
+							"name": "itemType",
+							"type": "itemType"
+						}
+					]
+				},
+				{
+					"name": "ItemTypeAndRarityIntent",
+					"samples": [
+						"{itemRarity} {itemType}",
+						"show me {itemRarity} {itemType}",
+						"{itemRarity} {itemType} items",
+						"fortnite {itemRarity} {itemType} items",
+						"give me {itemRarity} {itemType}",
+						"what are all {itemRarity} {itemType}",
+						"what is {itemRarity} {itemType}",
+						"give {itemRarity} {itemType}"
+					],
+					"slots": [
+						{
+							"name": "itemType",
+							"type": "itemType"
+						},
+						{
+							"name": "itemRarity",
+							"type": "AMAZON.Color"
+						}
+					]
+				},
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				}
+			]
+		}
+	}
+}
