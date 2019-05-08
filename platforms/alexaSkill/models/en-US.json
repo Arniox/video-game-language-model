@@ -44,7 +44,8 @@
 									"foraged healing",
 									"picked up healing",
 									"picked up",
-									"plants"
+									"plants",
+									"mushrooms"
 								]
 							}
 						},
@@ -59,14 +60,21 @@
 							"name": {
 								"value": "camouflage",
 								"synonyms": [
-									"hiding"
+									"hiding",
+									"stealth",
+									"invisable"
 								]
 							}
 						},
 						{
 							"id": null,
 							"name": {
-								"value": "mobility"
+								"value": "mobility",
+								"synonyms": [
+									"vehicals",
+									"moving",
+									"cars"
+								]
 							}
 						}
 					]
@@ -128,6 +136,72 @@
 						{
 							"name": "itemRarity",
 							"type": "AMAZON.Color"
+						}
+					]
+				},
+				{
+					"name": "ItemDoubleRarityIntent",
+					"samples": [
+						"{itemRarityOne} {itemRarityTwo}",
+						"{itemRarityOne} and {itemRarityTwo}",
+						"{itemRarityOne} {itemRarityTwo} items",
+						"{itemRarityOne} and {itemRarityTwo} items",
+						"show me {itemRarityOne} and {itemRarityTwo}",
+						"show me {itemRarityOne} {itemRarityTwo}",
+						"{itemRarityOne} {itemRarityTwo} items",
+						"{itemRarityOne} and {itemRarityTwo} items",
+						"fortnite {itemRarityOne} {itemRarityTwo} items",
+						"fortnite {itemRarityOne} and {itemRarityTwo} items",
+						"give me {itemRarityOne} {itemRarityTwo}",
+						"give me {itemRarityOne} and {itemRarityTwo}",
+						"what are all {itemRarityOne} {itemRarityTwo} items",
+						"what are all {itemRarityOne} and {itemRarityTwo} items",
+						"what is {itemRarityOne} {itemRarityTwo} items",
+						"what is {itemRarityOne} and {itemRarityTwo} items",
+						"give {itemRarityOne} {itemRarityTwo}",
+						"give {itemRarityOne} and {itemRarityTwo}"
+					],
+					"slots": [
+						{
+							"name": "itemRarityOne",
+							"type": "AMAZON.Color"
+						},
+						{
+							"name": "itemRarityTwo",
+							"type": "AMAZON.Color"
+						}
+					]
+				},
+				{
+					"name": "ItemDoubleIntent",
+					"samples": [
+						"{itemTypeOne} {itemTypeTwo}",
+						"{itemTypeOne} and {itemTypeTwo}",
+						"{itemTypeOne} {itemTypeTwo} items",
+						"{itemTypeOne} and {itemTypeTwo} items",
+						"show me {itemTypeOne} and {itemTypeTwo}",
+						"show me {itemTypeOne} {itemTypeTwo}",
+						"{itemTypeOne} {itemTypeTwo} items",
+						"{itemTypeOne} and {itemTypeTwo} items",
+						"fortnite {itemTypeOne} {itemTypeTwo} items",
+						"fortnite {itemTypeOne} and {itemTypeTwo} items",
+						"give me {itemTypeOne} {itemTypeTwo}",
+						"give me {itemTypeOne} and {itemTypeTwo}",
+						"what are all {itemTypeOne} {itemTypeTwo} items",
+						"what are all {itemTypeOne} and {itemTypeTwo} items",
+						"what is {itemTypeOne} {itemTypeTwo} items",
+						"what is {itemTypeOne} and {itemTypeTwo} items",
+						"give {itemTypeOne} {itemTypeTwo}",
+						"give {itemTypeOne} and {itemTypeTwo}"
+					],
+					"slots": [
+						{
+							"name": "itemTypeOne",
+							"type": "itemType"
+						},
+						{
+							"name": "itemTypeTwo",
+							"type": "itemType"
 						}
 					]
 				},

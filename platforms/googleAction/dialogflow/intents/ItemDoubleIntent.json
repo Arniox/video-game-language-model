@@ -1,0 +1,23 @@
+{
+	"name": "ItemDoubleIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "itemTypeOne",
+					"value": "$itemTypeOne",
+					"dataType": "@itemType"
+				},
+				{
+					"isList": false,
+					"name": "itemTypeTwo",
+					"value": "$itemTypeTwo",
+					"dataType": "@itemType"
+				}
+			]
+		}
+	]
+}

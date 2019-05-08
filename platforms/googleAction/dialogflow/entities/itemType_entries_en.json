@@ -32,7 +32,8 @@
 			"foraged healing",
 			"picked up healing",
 			"picked up",
-			"plants"
+			"plants",
+			"mushrooms"
 		]
 	},
 	{
@@ -45,13 +46,18 @@
 		"value": "camouflage",
 		"synonyms": [
 			"camouflage",
-			"hiding"
+			"hiding",
+			"stealth",
+			"invisable"
 		]
 	},
 	{
 		"value": "mobility",
 		"synonyms": [
-			"mobility"
+			"mobility",
+			"vehicals",
+			"moving",
+			"cars"
 		]
 	}
 ]

@@ -1,0 +1,486 @@
+[
+	{
+		"data": [
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "show me ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "show me ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "fortnite ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "fortnite ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give me ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give me ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "what are all ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "what are all ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "what is ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "what is ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			},
+			{
+				"text": " items",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeOne",
+				"userDefined": true,
+				"alias": "itemTypeOne",
+				"meta": "@itemType"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "itemTypeTwo",
+				"userDefined": true,
+				"alias": "itemTypeTwo",
+				"meta": "@itemType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

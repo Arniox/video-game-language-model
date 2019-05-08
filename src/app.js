@@ -47,6 +47,10 @@ app.setHandler({
 
     ItemDoubleRarityIntent() {
         this.tell('Here\'s all ' + this.$inputs.itemRarityOne.value + ' and ' + this.$inputs.itemRarityTwo.value + ' items from Fortnite');
+    },
+
+    ItemDoubleIntent() {
+        this.tell('Here\'s all ' + this.$inputs.itemTypeOne.value + ' and ' + this.$inputs.itemTypeTwo.value + ' items from Fortnite');
     }
 });
 
